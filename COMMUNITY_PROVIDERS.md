@@ -12,6 +12,7 @@ Community-developed provider plugins that extend LangExtract with additional mod
 |-------------|--------------|------------|-------------|-------------|------------|
 | AWS Bedrock | `langextract-bedrock` | [@andyxhadji](https://github.com/andyxhadji) | [andyxhadji/langextract-bedrock](https://github.com/andyxhadji/langextract-bedrock) | AWS Bedrock provider for LangExtract, supports all models & inference profiles | [#148](https://github.com/google/langextract/issues/148) |
 | LiteLLM | `langextract-litellm` | [@JustStas](https://github.com/JustStas) | [JustStas/langextract-litellm](https://github.com/JustStas/langextract-litellm) | LiteLLM provider for LangExtract, supports all models covered in LiteLLM, including OpenAI, Azure, Anthropic, etc., See [LiteLLM's supported models](https://docs.litellm.ai/docs/providers) | [#187](https://github.com/google/langextract/issues/187) |
+| OpenRouter | `langextract-openrouter` | [@fredguth](https://github.com/fredguth) | [fredguth/langextract-openrouter](https://github.com/fredguth/langextract-openrouter) | OpenRouter provider for LangExtract, including all [OpenRouter models](https://openrouter.ai/models) | [#196](https://github.com/google/langextract/issues/196) |
 
 <!-- ADD NEW PLUGINS ABOVE THIS LINE -->
 
